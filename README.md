@@ -1,12 +1,13 @@
-# profilefinalsql
+# profilefinalsql 
+**Una aplicacion que maneja las operaciones basicas de CRUD e inserta fotografia.**
 
-A new Flutter application.
+>Muestra
 
-## Getting Started
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/profilefinalsql/blob/master/1.jpg "SQLite")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/profilefinalsql/blob/master/2.jpg "SQLite")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/profilefinalsql/blob/master/3.jpg "SQLite")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+***
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
