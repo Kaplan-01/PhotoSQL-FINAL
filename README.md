@@ -5,7 +5,6 @@
 
 ![Example](https://github.com/MariaDelCarmenHernandezDiaz/profile_final_sql/blob/master/1.jpg "SQLite")
 ![Example](https://github.com/MariaDelCarmenHernandezDiaz/profile_final_sql/blob/master/2.jpg "SQLite")
-![Example](https://github.com/MariaDelCarmenHernandezDiaz/profile_final_sql/blob/master/3.jpg "SQLite")
 
 ***
 
